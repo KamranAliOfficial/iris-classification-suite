@@ -19,7 +19,7 @@ A professional, enterprise-grade machine learning application for classifying Ir
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/iris-classification-suite.git
+git clone https://github.com/KamranAliOfficial/iris-classification-suite.git
 cd iris-classification-suite
 ```
 
